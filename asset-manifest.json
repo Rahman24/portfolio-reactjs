@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.6070132f.css",
+    "main.js": "/portfolio-react/static/js/main.defcb658.js",
+    "static/js/787.34fbeff4.chunk.js": "/portfolio-react/static/js/787.34fbeff4.chunk.js",
+    "static/media/gw.webp": "/portfolio-react/static/media/gw.2c4d2fe0258880f948fa.webp",
+    "static/media/GrandHotel-Regular.ttf": "/portfolio-react/static/media/GrandHotel-Regular.693c686e45a9248ce501.ttf",
+    "static/media/intro.webp": "/portfolio-react/static/media/intro.e6fe5884ddc695dc7c44.webp",
+    "static/media/ABeeZee-Italic.ttf": "/portfolio-react/static/media/ABeeZee-Italic.54040f703bcc55d5a4ad.ttf",
+    "static/media/hsc.webp": "/portfolio-react/static/media/hsc.c759d33b980ab63c5c7c.webp",
+    "static/media/sslc.webp": "/portfolio-react/static/media/sslc.f91b4fdb078778102c50.webp",
+    "static/media/c.webp": "/portfolio-react/static/media/c.712b92373dd2a520281e.webp",
+    "static/media/cse.webp": "/portfolio-react/static/media/cse.1798650cd0f5c21e8ae6.webp",
+    "static/media/react.webp": "/portfolio-react/static/media/react.9321e4ea578153ca992f.webp",
+    "static/media/cpp.webp": "/portfolio-react/static/media/cpp.b594fcb92f2e90443ec2.webp",
+    "static/media/ds.webp": "/portfolio-react/static/media/ds.4c8ffd1e35a54fc8b610.webp",
+    "static/media/python.webp": "/portfolio-react/static/media/python.60024bef3eeb38753624.webp",
+    "static/media/htmlcss.webp": "/portfolio-react/static/media/htmlcss.b78ca8ba326c6449ec7e.webp",
+    "static/media/js.webp": "/portfolio-react/static/media/js.cb1e8c3c4d2efce109c1.webp",
+    "static/media/firebase.webp": "/portfolio-react/static/media/firebase.7c0a921fd4efc7dff287.webp",
+    "static/media/bootstrap.webp": "/portfolio-react/static/media/bootstrap.3a6944ff7b010c0ebe94.webp",
+    "index.html": "/portfolio-react/index.html",
+    "main.6070132f.css.map": "/portfolio-react/static/css/main.6070132f.css.map",
+    "main.defcb658.js.map": "/portfolio-react/static/js/main.defcb658.js.map",
+    "787.34fbeff4.chunk.js.map": "/portfolio-react/static/js/787.34fbeff4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6070132f.css",
+    "static/js/main.defcb658.js"
+  ]
+}
