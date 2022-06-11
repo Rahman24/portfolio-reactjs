@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1387a1f8.css",
-    "main.js": "/static/js/main.5bd95295.js",
+    "main.js": "/static/js/main.bd95a7fa.js",
     "static/js/787.34fbeff4.chunk.js": "/static/js/787.34fbeff4.chunk.js",
     "static/media/gw.webp": "/static/media/gw.2c4d2fe0258880f948fa.webp",
     "static/media/GrandHotel-Regular.ttf": "/static/media/GrandHotel-Regular.693c686e45a9248ce501.ttf",
@@ -21,11 +21,11 @@
     "static/media/bootstrap.webp": "/static/media/bootstrap.3a6944ff7b010c0ebe94.webp",
     "index.html": "/index.html",
     "main.1387a1f8.css.map": "/static/css/main.1387a1f8.css.map",
-    "main.5bd95295.js.map": "/static/js/main.5bd95295.js.map",
+    "main.bd95a7fa.js.map": "/static/js/main.bd95a7fa.js.map",
     "787.34fbeff4.chunk.js.map": "/static/js/787.34fbeff4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1387a1f8.css",
-    "static/js/main.5bd95295.js"
+    "static/js/main.bd95a7fa.js"
   ]
 }
