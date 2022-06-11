@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.1387a1f8.css",
-    "main.js": "/static/js/main.bd95a7fa.js",
+    "main.css": "/static/css/main.3a4eccf2.css",
+    "main.js": "/static/js/main.acf33c30.js",
     "static/js/787.34fbeff4.chunk.js": "/static/js/787.34fbeff4.chunk.js",
+    "static/media/Joan-Regular.ttf": "/static/media/Joan-Regular.3de7120f7dfe13b22029.ttf",
     "static/media/gw.webp": "/static/media/gw.2c4d2fe0258880f948fa.webp",
     "static/media/GrandHotel-Regular.ttf": "/static/media/GrandHotel-Regular.693c686e45a9248ce501.ttf",
     "static/media/intro.webp": "/static/media/intro.e6fe5884ddc695dc7c44.webp",
+    "static/media/footer.webp": "/static/media/footer.0b779977f69df7a35094.webp",
     "static/media/ABeeZee-Italic.ttf": "/static/media/ABeeZee-Italic.54040f703bcc55d5a4ad.ttf",
     "static/media/hsc.webp": "/static/media/hsc.c759d33b980ab63c5c7c.webp",
     "static/media/sslc.webp": "/static/media/sslc.f91b4fdb078778102c50.webp",
@@ -20,12 +22,12 @@
     "static/media/firebase.webp": "/static/media/firebase.7c0a921fd4efc7dff287.webp",
     "static/media/bootstrap.webp": "/static/media/bootstrap.3a6944ff7b010c0ebe94.webp",
     "index.html": "/index.html",
-    "main.1387a1f8.css.map": "/static/css/main.1387a1f8.css.map",
-    "main.bd95a7fa.js.map": "/static/js/main.bd95a7fa.js.map",
+    "main.3a4eccf2.css.map": "/static/css/main.3a4eccf2.css.map",
+    "main.acf33c30.js.map": "/static/js/main.acf33c30.js.map",
     "787.34fbeff4.chunk.js.map": "/static/js/787.34fbeff4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1387a1f8.css",
-    "static/js/main.bd95a7fa.js"
+    "static/css/main.3a4eccf2.css",
+    "static/js/main.acf33c30.js"
   ]
 }
