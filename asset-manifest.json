@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a4eccf2.css",
-    "main.js": "/static/js/main.d50112ed.js",
+    "main.css": "/static/css/main.1f1908c0.css",
+    "main.js": "/static/js/main.fc3a4f2f.js",
     "static/js/787.34fbeff4.chunk.js": "/static/js/787.34fbeff4.chunk.js",
     "static/media/Joan-Regular.ttf": "/static/media/Joan-Regular.3de7120f7dfe13b22029.ttf",
     "static/media/gw.webp": "/static/media/gw.2c4d2fe0258880f948fa.webp",
@@ -16,18 +16,28 @@
     "static/media/react.webp": "/static/media/react.9321e4ea578153ca992f.webp",
     "static/media/cpp.webp": "/static/media/cpp.b594fcb92f2e90443ec2.webp",
     "static/media/ds.webp": "/static/media/ds.4c8ffd1e35a54fc8b610.webp",
+    "static/media/postgres.webp": "/static/media/postgres.ed1b63e24b15d6879679.webp",
+    "static/media/java.webp": "/static/media/java.25bcaeeaf4232d7e3ef6.webp",
     "static/media/python.webp": "/static/media/python.60024bef3eeb38753624.webp",
     "static/media/htmlcss.webp": "/static/media/htmlcss.b78ca8ba326c6449ec7e.webp",
+    "static/media/flask.webp": "/static/media/flask.1bdba96807e6429a7d50.webp",
     "static/media/js.webp": "/static/media/js.cb1e8c3c4d2efce109c1.webp",
     "static/media/firebase.webp": "/static/media/firebase.7c0a921fd4efc7dff287.webp",
     "static/media/bootstrap.webp": "/static/media/bootstrap.3a6944ff7b010c0ebe94.webp",
+    "static/media/threejs.webp": "/static/media/threejs.98d8015c83fe598bdd66.webp",
+    "static/media/mysql.webp": "/static/media/mysql.79ac2e4727afa7883f15.webp",
+    "static/media/nodejs.webp": "/static/media/nodejs.9497c0d4d7f3f0afa06b.webp",
+    "static/media/sqlite.webp": "/static/media/sqlite.0e0e2d19ea599bca3561.webp",
+    "static/media/mui.webp": "/static/media/mui.599a80df88b4ac5192d2.webp",
+    "static/media/jinja.webp": "/static/media/jinja.132207e89f649aa86341.webp",
+    "static/media/django.webp": "/static/media/django.c1c15e5519bfe6007756.webp",
     "index.html": "/index.html",
-    "main.3a4eccf2.css.map": "/static/css/main.3a4eccf2.css.map",
-    "main.d50112ed.js.map": "/static/js/main.d50112ed.js.map",
+    "main.1f1908c0.css.map": "/static/css/main.1f1908c0.css.map",
+    "main.fc3a4f2f.js.map": "/static/js/main.fc3a4f2f.js.map",
     "787.34fbeff4.chunk.js.map": "/static/js/787.34fbeff4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a4eccf2.css",
-    "static/js/main.d50112ed.js"
+    "static/css/main.1f1908c0.css",
+    "static/js/main.fc3a4f2f.js"
   ]
 }
